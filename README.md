@@ -1,1 +1,0 @@
-# Catalog-Scoring-Mechanism
